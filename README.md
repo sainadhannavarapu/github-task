@@ -14,17 +14,18 @@ ___bold and italic___
 *italic __bold__ *
 
 * IPL
-  * **RCB**
+  * **MI**
+  * *RCB*
   * CSK
-  * MI
-1. ***RCB***
-    1. VIRAT KOHLI
-    2. GLENN MAXWELL
-    3. MOHAMMED SIRAJ
+1. ***MI***
+    1. ROHIT SHARMA
+    2. JASPRIT BUMRAH
+    3. SURYA KUMAR YADAV
+    4. KIERON POLLARD
  
 [Twitter CEO](https://www.scmp.com/news/asia/south-asia/article/3157827/who-parag-agrawal-indian-american-twitter-ceo-replacing-jack?utm_source=pocket-newtab-intl-en)
 
-![RCB RETENTION PLAYERS](https://cdn.insidesport.co/wp-content/uploads/2021/11/30225330/WhatsApp-Image-2021-11-30-at-9.43.05-PM.jpeg)
+![MI RETENTION PLAYERS](https://www.timesofsports.com/wp-content/uploads/2021/11/MI-Retained-players.png)
 
 s.no|name|roll no.
 ----|----|----
