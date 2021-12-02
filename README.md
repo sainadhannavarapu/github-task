@@ -26,3 +26,10 @@ ___bold and italic___
 
 ![RCB RETENTION PLAYERS](https://cdn.insidesport.co/wp-content/uploads/2021/11/30225330/WhatsApp-Image-2021-11-30-at-9.43.05-PM.jpeg)
 
+s.no|name|roll no.
+----|----|----
+1|Srinivas|513
+2|Tarunteja|517
+3|krishna|519
+
+:hear_no_evil: :see_no_evil: :speak_no_evil:
