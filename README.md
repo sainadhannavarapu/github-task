@@ -22,18 +22,29 @@ ___bold and italic___
     2. JASPRIT BUMRAH
     3. SURYA KUMAR YADAV
     4. KIERON POLLARD
-   
-     
-    
- 
+
 [Mumbai Indians](https://www.mumbaiindians.com/)
 
 ![MI RETENTION PLAYERS](https://www.timesofsports.com/wp-content/uploads/2021/11/MI-Retained-players.png)
 
-s.no|name|roll no.
-----|----|----
-1|Srinivas|513
-2|Tarunteja|517
-3|krishna|519
 
-:hear_no_evil: :see_no_evil: :speak_no_evil:
+ 2. ***RCB***
+     1. VIRAT KOHLI
+     2. GLENN MAXWELL
+     3. MOHAMMAD SIRAJ
+
+[Royal Challengers Bangalore](https://www.royalchallengers.com)
+
+![RCB RETENTION PLAYERS](https://cdn.insidesport.co/wp-content/uploads/2021/11/30225330/WhatsApp-Image-2021-11-30-at-9.43.05-PM.jpeg)
+
+ 3. ***CSK***
+     1. RAVINDRA JADEJA
+     2. M.S.DHONI
+     3. RUTHURAJ GAIKWAD
+
+[Chennai Super Kings](https://www.chennaisuperkings.com/CSK_WEB/index.html)
+
+![CSK RETENTION PLAYERS](https://cdn.insidesport.co/wp-content/uploads/2021/11/30224829/WhatsApp-Image-2021-11-30-at-10.11.59-PM.jpeg)
+
+
+
